@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'tls-Kasm Test',
+    description: 'A curated TLS XSS supported workspace.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://tls-kasm.sulli64.github.com/',
+    contactUrl: 'https://tls-kasm.sulli64.github.com/support',
   },
   reactStrictMode: true,
   swcMinify: true,
